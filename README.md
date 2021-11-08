@@ -6,7 +6,4 @@ Back-end [JAVA, AJax, MySQL]<br/>
 Tomcat 8.0<br/>
 jdk 1.8.0<br/>
 
-팀원 3명중[웹, 게임 클라이언트(본인), 게임 서버]<br/>
-팀원으로 활동하며 게임 클라이언트를 담당 하였습니다.
-
 <a href="http://sunx.cafe24.com/">홈페이지 바로가기</a> 관리자 계정 id:1 pw:1
